@@ -1,0 +1,195 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e8]:
+        - link "Aman Dhesi" [ref=e10] [cursor=pointer]:
+          - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/
+          - img "Aman Dhesi" [ref=e11]
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Start Here" [ref=e15] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/
+          - listitem [ref=e16]:
+            - link "About" [ref=e17] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/about/
+          - listitem [ref=e18]:
+            - link "Writing" [ref=e19] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/writing/
+          - listitem [ref=e20]:
+            - link "Subscribe" [ref=e21] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/subscribe/
+          - listitem [ref=e22]:
+            - link "Twitter" [ref=e23] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://twitter.com/theamandhesi
+              - generic [ref=e24]:
+                - img
+              - generic [ref=e25]: Twitter
+          - listitem [ref=e26]:
+            - link "Facebook" [ref=e27] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://www.facebook.com/dhesi.aman
+              - generic [ref=e28]:
+                - img
+              - generic [ref=e29]: Facebook
+    - main [ref=e30]:
+      - article [ref=e33]:
+        - generic [ref=e34]:
+          - heading "To get what you want, focus on what you control" [level=1] [ref=e35]
+          - paragraph [ref=e36]: Identify the things you control and focus exclusively on them. Everything else is chance.
+          - link "Aman Dhesi 13 July 2020 . 6 min read" [ref=e38] [cursor=pointer]:
+            - /url: /web/20240811130129/https://www.amandhesi.net/author/aman/
+            - generic [ref=e39]:
+              - generic [ref=e40]: Aman Dhesi
+              - time [ref=e41]: 13 July 2020 .
+              - text: 6 min read
+          - figure [ref=e42]:
+            - img "To get what you want, focus on what you control" [ref=e43]
+        - generic [ref=e44]:
+          - paragraph [ref=e45]: Generally, anyone writing online advising against something is themselves the worst offender of that thing. This certainly applies to me and this post. When the COVID-19 pandemic started, I was obsessively tracking case statistics, refreshing Twitter, and consuming news. COVID, government, politics, and public health became the center of my concern — all areas outside of my influence. I was spending far too much time and energy on things that were out of my control. My ability to focus suffered and my anxiety soared.
+          - paragraph [ref=e46]: I’m not alone in this. A lot has changed very quickly, and it is understandably a struggle to adapt and change our habits and behavior to function under the new normal. Most people alive today have never lived through a time where our sense of control over our lives has been so dramatically reduced so quickly. A natural response to this is to try and maintain an illusion of control.
+          - heading "The illusion of control" [level=3] [ref=e47]
+          - paragraph [ref=e48]: The fallacy here is this — if I am informed, I am in control. I maintained an illusion of control by consuming a constant stream of information through news and social media. What I really wanted was to keep my loved ones and myself, and as many people as I could influence, safe. After a certain point, more information did not help me get what I wanted. On the contrary, it drained my energy, hurt my mental health, and made me feel helpless.
+          - paragraph [ref=e49]:
+            - text: Once I recognized this pattern, I started to practice a simple but powerful idea —
+            - strong [ref=e50]:
+              - strong [ref=e51]: focusing on what I control.
+            - text: Since then I’ve found myself returning to it in different situations. While COVID will pass, I realized this idea is useful in any situation where there is something you want. I want to make an argument for why this is the most effective way to focus our attention. Always. Never let a good crisis go to waste, right?
+          - heading "Things you control, and matters of chance" [level=3] [ref=e52]
+          - paragraph [ref=e53]: "Let’s think of any situation where we want something. There are two types of things that determine whether we get what we want: things we control, and matters of chance. Everything falls into these two categories."
+          - 'figure "There are two types of things that determine whether we get what we want: things we control, and matters of chance" [ref=e54]':
+            - generic [ref=e55]: "There are two types of things that determine whether we get what we want: things we control, and matters of chance"
+          - paragraph [ref=e56]:
+            - text: I prefer to frame the latter category as
+            - emphasis [ref=e57]: matters of chance
+            - text: rather than as things outside of our control.
+            - emphasis [ref=e58]: Outside of our control
+            - text: is a loaded phrase that implies someone or something else is in control. It means we can blame someone or something else for the way things are, whether it’s a boss, a business partner, the economy, or the government. The truth is that
+            - emphasis [ref=e59]: most things
+            - text: are outside of our control. Knowing this, it’s easy to fall into resignation — being resigned to whatever
+            - emphasis [ref=e60]: happens
+            - emphasis [ref=e61]: to us
+            - text: .
+          - paragraph [ref=e62]:
+            - text: Instead of thinking of them as things outside of my control, I believe that those things are playing out randomly. In other words,
+            - link "God is playing dice" [ref=e63] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/http://www.hawking.org.uk/does-god-play-dice.html
+            - text: . This view is backed up by
+            - link "chaos theory" [ref=e64] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://en.wikipedia.org/wiki/Chaos_theory
+            - text: . The mathematics of the theory suggests that reality is so messy and complex that things look random even when there is some underlying logic or rationality at play. So the things that are outside of our control are, for all practical purposes, happening at random.
+          - heading "Avoiding a victim mentality" [level=3] [ref=e65]
+          - paragraph [ref=e66]:
+            - text: While the belief that most things are outside of our control can be disempowering, the belief that those things are happening at random, I believe, is empowering. It frees us to focus on what we control. It helps us avoid a
+            - emphasis [ref=e67]: victim mentality
+            - text: — the belief that things are happening
+            - emphasis [ref=e68]: to us
+            - text: by someone or something else. Things that happen at random are neutral — they are not happening for or against us. It just doesn’t make sense to concern ourselves with the outcome of a coin toss.
+          - paragraph [ref=e69]: Why did someone else get that promotion instead of me? Or why did someone else’s startup succeed when mine failed at doing the same thing? These are both situations that I experienced in the past and found myself thinking that the universe was unfair, that someone or something else was in control and didn’t want me to succeed.
+          - paragraph [ref=e70]:
+            - text: Now, I remind myself that the universe isn’t unfair. It’s just a benign dictator who is fond of a game of dice. The universe is not to blame when I don’t get what I want. There are only two kinds of things at play — one, things I control, and two, chance.
+            - emphasis [ref=e71]: So I remind myself to focus on what I control.
+          - figure "To get what you want more often, focus on what you control" [ref=e72]:
+            - generic [ref=e73]: To get what you want more often, focus on what you control
+          - heading "There are always things we control" [level=3] [ref=e74]
+          - paragraph [ref=e75]:
+            - text: To say that the universe is not unfair is not to say that structural inequalities — social, economic, racial, gender-based, or otherwise — don’t exist, for they surely do. We have all been privileged in some ways and disadvantaged in others. However,
+            - emphasis [ref=e76]: even when the system is rigged against us, there are things that we control that we can focus on
+            - text: .
+          - paragraph [ref=e77]:
+            - text: Focusing on what we control does not mean giving up in the face of adversity. It does not mean avoiding big hairy audacious goals like ending racial injustice. It means
+            - emphasis [ref=e78]: focusing on the aspects of the big hairy audacious goals that we control. And there are always aspects that we control.
+          - paragraph [ref=e79]:
+            - text: Concerned about racial injustice — go to a protest or speak up the next time you see racist behavior. Concerned about the political direction of the country — vote, or go canvas for your favorite local politician. Concerned about the environment — change your behavior to be more sustainable, or join a local climate movement to educate others. No matter the scale of the challenge,
+            - emphasis [ref=e80]: there is always something within our control that we can focus on
+            - text: .
+          - paragraph [ref=e81]:
+            - text: I have come back to this idea over and over again recently in many different situations. In each situation, it has allowed me to shift from frustration or resignation to a willingness to be creative and identify what I can do that is in my control. And then focus my energy on
+            - link "doing my best" [ref=e82] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://www.youtube.com/watch?v=pj8Ljm7t7Vo
+            - text: at it.
+          - heading "Don’t worry about the outcome" [level=3] [ref=e83]
+          - paragraph [ref=e84]:
+            - text: Finally, a word about outcomes. Since we don’t control them, outcomes are also a matter of chance. So don’t worry too much about the outcome, other than to learn from it and adjust your approach next time. It’s entirely possible to do all the right things and yet not get the desired outcome. Just ask
+            - link "this guy" [ref=e85] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://www.youtube.com/watch?v=W9q0plyu764
+            - text: .
+          - paragraph [ref=e86]:
+            - text: As Charlie Munger has said, he would pick a
+            - link "better decision-making process over a better outcome" [ref=e87] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://www.thecut.com/2016/09/in-decision-making-process-matters-more-than-the-outcome.html
+            - text: ", because in the long run, the better process will be right more often. In the long run, a better poker player wins more on average even though they may not win every time. Similarly, in the long run, focusing on what you control works more often to get the outcomes you desire."
+          - heading "To get what you want more often, do this" [level=3] [ref=e88]
+          - paragraph [ref=e89]: "Here’s the main takeaway, in 4 steps:"
+          - list [ref=e90]:
+            - listitem [ref=e91]: Most things are outside of our control. Think of these as random, a roll of the dice.
+            - listitem [ref=e92]: There are always things that we can control, in every situation.
+            - listitem [ref=e93]: Identify these things and do your best at them.
+            - listitem [ref=e94]: The outcome is also random, so don’t put too much stock in it. In the long run, this system works.
+          - 'heading "Appendix: Locus of Control" [level=3] [ref=e95]'
+          - paragraph [ref=e96]:
+            - text: Psychologists refer to focusing on what you control as
+            - emphasis [ref=e97]: having an internal
+            - link "locus of control" [ref=e98] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://en.wikipedia.org/wiki/Locus_of_control
+              - emphasis [ref=e99]: locus of control
+            - emphasis [ref=e100]: .
+            - text: Locus of control is the degree to which people believe that they, as opposed to external forces, have control over the outcome of events in their lives. Research has found that an internal locus of control has many benefits and people who have it are generally better off.
+          - paragraph [ref=e101]:
+            - text: While locus of control is studied as a personality trait, focusing on what you control is a habit that can be built. As I have found, consciously shifting my attention to focus on what I control in any situation can be learned through practice. I would hazard that through this practice, one can
+            - emphasis [ref=e102]: develop
+            - text: an internal locus of control and tap into all the benefits that come with it.
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - heading "Join the mailing list" [level=3] [ref=e107]
+            - paragraph [ref=e108]: Subscribe to receive my latest writing in your inbox. No spam, ever.
+            - generic [ref=e110]:
+              - generic [ref=e111]: Your email address
+              - textbox "Your email address" [ref=e112]
+              - button "Subscribe" [ref=e113] [cursor=pointer]
+          - img [ref=e115]
+      - separator
+      - heading "Related Posts" [level=3] [ref=e121]
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - time [ref=e127]: 27 Jul 2021
+          - generic [ref=e128]:
+            - heading "Why I took a sabbatical and why you should consider one" [level=2] [ref=e129]:
+              - link "Why I took a sabbatical and why you should consider one" [ref=e130] [cursor=pointer]:
+                - /url: /web/20240811130129/https://www.amandhesi.net/writing/why-i-took-a-sabbatical-and-why-you-should-consider-one/
+            - paragraph [ref=e131]: In March, after 3.5 years working at Square and DoorDash - two incredible companies that I remain excited about - I left to take a creative sabbatical. I’ve spent the last few months surfing in Malibu and Mexico, reading, writing, meditating, taking cohort-based courses, diving into the world
+        - generic [ref=e132]:
+          - time [ref=e134]: 19 Oct 2020
+          - generic [ref=e135]:
+            - heading "My Guiding Principles" [level=2] [ref=e136]:
+              - link "My Guiding Principles" [ref=e137] [cursor=pointer]:
+                - /url: /web/20240811130129/https://www.amandhesi.net/writing/my-guiding-principles/
+            - paragraph [ref=e138]: Watch your character, it becomes your destiny. - Lao Tzu
+          - img "My Guiding Principles" [ref=e141]
+        - generic [ref=e142]:
+          - time [ref=e144]: 17 Aug 2020
+          - generic [ref=e145]:
+            - heading "Creative sprints and why 80% is good enough" [level=2] [ref=e146]:
+              - link "Creative sprints and why 80% is good enough" [ref=e147] [cursor=pointer]:
+                - /url: /web/20240811130129/https://www.amandhesi.net/writing/80-percent-is-good-enough/
+            - paragraph [ref=e148]: There's a story I tell myself that "I'm not a creative person". That's why, when I picked up electronic music production last year with no background in music, it was a big deal. After going through a 16-week class, I produced my first track. A track that not only was
+          - img "Creative sprints and why 80% is good enough" [ref=e151]
+    - contentinfo [ref=e152]:
+      - generic [ref=e153]:
+        - list [ref=e155]:
+          - listitem [ref=e156]:
+            - link "Start Here" [ref=e157] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/
+          - listitem [ref=e158]:
+            - link "About" [ref=e159] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/about/
+          - listitem [ref=e160]:
+            - link "Essays" [ref=e161] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/essays/
+          - listitem [ref=e162]:
+            - link "Short Notes" [ref=e163] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/shorts/
+          - listitem [ref=e164]:
+            - link "Books" [ref=e165] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811130129/https://amandhesi.net/books/
+        - generic [ref=e167]: © 2024 Aman Dhesi

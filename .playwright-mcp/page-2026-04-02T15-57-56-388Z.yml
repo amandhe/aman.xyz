@@ -1,0 +1,118 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e8]:
+        - link "Aman Dhesi" [ref=e10] [cursor=pointer]:
+          - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/
+          - img "Aman Dhesi" [ref=e11]
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Start Here" [ref=e15] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/
+          - listitem [ref=e16]:
+            - link "About" [ref=e17] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/about/
+          - listitem [ref=e18]:
+            - link "Writing" [ref=e19] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/writing/
+          - listitem [ref=e20]:
+            - link "Subscribe" [ref=e21] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/subscribe/
+          - listitem [ref=e22]:
+            - link "Twitter" [ref=e23] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://twitter.com/theamandhesi
+              - generic [ref=e24]:
+                - img
+              - generic [ref=e25]: Twitter
+          - listitem [ref=e26]:
+            - link "Facebook" [ref=e27] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://www.facebook.com/dhesi.aman
+              - generic [ref=e28]:
+                - img
+              - generic [ref=e29]: Facebook
+    - main [ref=e30]:
+      - article [ref=e33]:
+        - generic [ref=e34]:
+          - heading "Success = Doing what you said you would, consistently" [level=1] [ref=e35]
+          - paragraph [ref=e36]: Getting off the success treadmill.
+          - link "Aman Dhesi 05 April 2021 . 1 min read" [ref=e38] [cursor=pointer]:
+            - /url: /web/20250806030128/https://amandhesi.net/author/aman/
+            - generic [ref=e39]:
+              - generic [ref=e40]: Aman Dhesi
+              - time [ref=e41]: 05 April 2021 .
+              - text: 1 min read
+        - generic [ref=e42]:
+          - paragraph [ref=e43]:
+            - text: Growing up I was told I could be anything I wanted, as long as it was either an engineer or a doctor.
+            - strong [ref=e44]: I internalized this external definition of success.
+          - paragraph [ref=e45]: I went about my college and early adult years doing the things I was supposed to do to be "successful" - perfect grades, great internships, a top graduate school.
+          - paragraph [ref=e46]:
+            - text: As I grew older, I realized that you could be "successful" doing anything. After all, the Youtuber Mr. Beast makes millions
+            - link "building cities out of bouncy castles" [ref=e47] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://www.youtube.com/watch?v=FwcXpFpluRQ
+            - text: .
+          - paragraph [ref=e48]:
+            - text: If you're like me, you've had the experience where you did everything right, hit all the milestones you were supposed to to be successful, but still didn't
+            - emphasis [ref=e49]: feel
+            - text: successful. If that's you, you're on the
+            - emphasis [ref=e50]: treadmill of external success.
+          - figure [ref=e51]
+          - paragraph [ref=e52]:
+            - text: Success, I've realized, is more of a subjective, internal thing than an objective, external one. The best definition of internal success that I've found is this -
+            - strong [ref=e53]: an internally successful person does what they said they would, consistently.
+          - paragraph [ref=e54]: This definition is independent of what you do. You can be successful running a large company or robbing art galleries, as long as that's what you set out to do.
+          - paragraph [ref=e55]: The opposite of success, then, is not doing the things you said you would. Or doing things that you didn't intend do, even if they are considered externally successful.
+          - paragraph [ref=e56]:
+            - text: As
+            - link "Derek Sivers points out" [ref=e57] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://tim.blog/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/
+            - text: ", if Richard Branson's intention was to live a life of peace and quiet but he kept starting companies, he wouldn't be successful by his own standard. He wouldn't be doing what he said he would."
+          - paragraph [ref=e58]: Once you become a person who consistently does what they say they will, you develop the confidence to take on bigger and bigger challenges. Small successes build upon each other and create an upward spiral of success.
+          - paragraph [ref=e59]: And you stop measuring yourself by society's always-changing, always-out-of-reach yardstick of success. You get off the treadmill of external success.
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - heading "Join the mailing list" [level=3] [ref=e64]
+            - paragraph [ref=e65]: Subscribe to receive my latest writing in your inbox. No spam, ever.
+            - generic [ref=e67]:
+              - generic [ref=e68]: Your email address
+              - textbox "Your email address" [ref=e69]
+              - button "Subscribe" [ref=e70] [cursor=pointer]
+          - img [ref=e72]
+      - separator
+      - heading "Related Posts" [level=3] [ref=e78]
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - time [ref=e84]: 22 Apr 2021
+          - generic [ref=e85]:
+            - 'heading "Deferred Dreams: the other immigrant crisis" [level=2] [ref=e86]':
+              - 'link "Deferred Dreams: the other immigrant crisis" [ref=e87] [cursor=pointer]':
+                - /url: /web/20250806030128/https://amandhesi.net/writing/deferred-dreams/
+            - paragraph [ref=e88]: Immigrational risk, or why immigrants defer their dreams and become resigned to a life of corporate servitude.
+        - generic [ref=e89]:
+          - time [ref=e91]: 20 Apr 2021
+          - generic [ref=e92]:
+            - 'heading "Freedom isn''t free: why financial freedom is a false goal" [level=2] [ref=e93]':
+              - 'link "Freedom isn''t free: why financial freedom is a false goal" [ref=e94] [cursor=pointer]':
+                - /url: /web/20250806030128/https://amandhesi.net/writing/freedom-isnt-free/
+            - paragraph [ref=e95]: Financial freedom is just one step on the ladder of purpose.
+    - contentinfo [ref=e96]:
+      - generic [ref=e97]:
+        - list [ref=e99]:
+          - listitem [ref=e100]:
+            - link "Start Here" [ref=e101] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/
+          - listitem [ref=e102]:
+            - link "About" [ref=e103] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/about/
+          - listitem [ref=e104]:
+            - link "Essays" [ref=e105] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/essays/
+          - listitem [ref=e106]:
+            - link "Short Notes" [ref=e107] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/shorts/
+          - listitem [ref=e108]:
+            - link "Books" [ref=e109] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20250806030128/https://amandhesi.net/books/
+        - generic [ref=e111]: © 2025 Aman Dhesi

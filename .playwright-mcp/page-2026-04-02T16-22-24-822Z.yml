@@ -1,0 +1,211 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e8]:
+        - link "Aman Dhesi" [ref=e10] [cursor=pointer]:
+          - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/
+          - img "Aman Dhesi" [ref=e11]
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Start Here" [ref=e15] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/
+          - listitem [ref=e16]:
+            - link "About" [ref=e17] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/about/
+          - listitem [ref=e18]:
+            - link "Writing" [ref=e19] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/writing/
+          - listitem [ref=e20]:
+            - link "Subscribe" [ref=e21] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/subscribe/
+          - listitem [ref=e22]:
+            - link "Twitter" [ref=e23] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://twitter.com/theamandhesi
+              - generic [ref=e24]:
+                - img
+              - generic [ref=e25]: Twitter
+          - listitem [ref=e26]:
+            - link "Facebook" [ref=e27] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://www.facebook.com/dhesi.aman
+              - generic [ref=e28]:
+                - img
+              - generic [ref=e29]: Facebook
+    - main [ref=e30]:
+      - article [ref=e33]:
+        - generic [ref=e34]:
+          - heading "Creative sprints and why 80% is good enough" [level=1] [ref=e35]
+          - link "Aman Dhesi 17 August 2020 . 8 min read" [ref=e37] [cursor=pointer]:
+            - /url: /web/20240811173321/https://amandhesi.net/author/aman/
+            - generic [ref=e38]:
+              - generic [ref=e39]: Aman Dhesi
+              - time [ref=e40]: 17 August 2020 .
+              - text: 8 min read
+          - figure [ref=e41]:
+            - img "Creative sprints and why 80% is good enough" [ref=e42]
+        - generic [ref=e43]:
+          - paragraph [ref=e44]:
+            - text: There's a story I tell myself that "I'm not a creative person". That's why, when I picked up electronic music production last year with no background in music, it was a big deal. After going through a 16-week class, I produced
+            - link "my first track" [ref=e45] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://www.dropbox.com/s/7cpnmvniqtei7fe/insomnia_mastered2.mp3?dl=0
+            - text: . A track that not only was I proud of, but my friends loved and played on repeat.
+          - paragraph [ref=e46]: You’d think that the joy of creating a song I loved and that my friends couldn’t stop dancing to would inspire me to keep creating. But fast forward one year, and I still haven't produced another song. I just couldn't get myself to sit down and match the grueling hours that I had put into that first song. I had a year-long equivalent of writer's block.
+          - paragraph [ref=e47]: I put in a lot of time and effort into the song. I stayed up till 3 am every other night for 2 weeks. I was obsessed with quality. Every time I came away from a multi-hour production session, the song was a little better than when I started. However, after a point, there were diminishing returns on additional time invested. This was true not just for the quality of the song, but also for what I was learning.
+          - paragraph [ref=e48]: This grueling pursuit of perfection left me uninspired and exhausted. That’s why when I picked up writing and publishing online recently, I decided I was going to do things differently. To make that happen, I'm taking a different approach to writing. In this article, I explain the mindset shift that has allowed me to adopt a better creative process as I hone the art of writing.
+          - heading "The importance of creating A LOT" [level=3] [ref=e49]
+          - paragraph [ref=e50]: There is a sort of collective understanding that creative mastery takes time, effort, and deliberate practice. You have to create a large volume of work, even when your work doesn't live up to your high standards.
+          - paragraph [ref=e51]:
+            - link "Ira Glass" [ref=e52] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://www.brainpickings.org/2014/01/29/ira-glass-success-daniel-sax/
+            - text: "described this when he said:"
+          - blockquote [ref=e53]:
+            - text: For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit.
+            - text: ... We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions.
+          - paragraph [ref=e54]:
+            - text: To develop creative mastery in any craft, it's important to create a large quantity of work, and not quit when your work disappoints you.
+            - strong [ref=e55]:
+              - strong [ref=e56]:
+                - text: My experience, however, has taught me that it's possible to quit even when your work
+                - emphasis [ref=e57]: does not
+                - text: disappoint you
+            - text: . It's possible to quit even when you like what you have created.
+          - paragraph [ref=e58]: When I produced my first song, I approached it not as my first song, but as my magnum opus. Twelve weeks into producing music for the first time, I was already crafting the pinnacle of my musical career. I wasn't creating a song, I was creating the Next Great American Novel of electronic music.
+          - paragraph [ref=e59]: When I was done with the song, I was thrilled with the result, but I also did not want to sit at my music workstation or look at the Ableton interface again for weeks. I didn't quit because my song was good. I quit because I set myself an extremely high bar, and burned myself out.
+          - paragraph [ref=e60]:
+            - text: Examples abound of authors who, after a critically acclaimed first publication, never published again, or took many years to do so. Harper Lee wrote her first book, the iconic
+            - emphasis [ref=e61]: To Kill a Mockingbird
+            - text: in 1960. It won the 1961 Pulitzer and became a modern American classic. Her second book was published in 2015, a year before she died. In the writing world, this is called
+            - emphasis [ref=e62]: the second novel syndrome
+            - text: ", described by one writer as \"the weight of the dead hand of dread as you sit to write\"."
+          - paragraph [ref=e63]:
+            - text: As I started my second song I acutely felt this dead hand of dread. Looking ahead, there was a mountain to climb. I was weeks of grueling effort away from ever reaching the height that I had scaled with my first song. Seeing the daunting task ahead, I gave up. I never made a second song. I had set myself up to think that the process of producing a song was an arduous journey of late nights and never-ending iteration in search of perfection. Because that had been my only experience with music production, it became
+            - emphasis [ref=e64]: the model
+            - text: of music production for me.
+          - heading "The creative heavy lift" [level=3] [ref=e65]
+          - paragraph [ref=e66]: "I call this model of doing creative work the \"creative heavy lift\". Here's what my creative heavy lift looked like:"
+          - figure:
+            - img "creative heavy lift.png"
+          - paragraph [ref=e67]:
+            - text: "I still remember when I first started lifting weights and was introduced to my arch-nemesis: the barbell squat. The squat is the foundation for strength, I was told, and it was critical to squat heavy weights to be big and strong. Unfortunately, after every heavy squat workout, it took several days for my legs to stop feeling like jelly. A few months into squatting, I injured my knee and it put back my strength-training progress by a year or more."
+            - strong [ref=e68]:
+              - strong [ref=e69]: The creative heavy lift has the same dampening effect on creative mastery that the barbell squat had on my strength-training journey.
+          - paragraph [ref=e70]: Working in creative heavy lifts has several downsides. Instead of being excited, you dread starting new projects just like you dread a day of heavy squats - you know it's going to be rough even before you begin. It puts all the emphasis on the outcome and takes the joy out of the process. It feels like work, not play. Because much more time is spent perfecting what we've started, there are fewer opportunities to practice creative variety and to broaden creative horizons. Because less work is published, less feedback is received and there are fewer opportunities to build, connect with, and understand your audience.
+          - paragraph [ref=e71]: At the end of a creative heavy lift, you come out bruised and battered like a fighter coming out of a boxing match with a bloodied face or a WW2 aircraft returning from combat with tattered fuselage.
+          - heading "The creative sprint" [level=3] [ref=e72]
+          - paragraph [ref=e73]:
+            - text: "After my experience with the heavy lift approach in music production, I knew I had to try a different approach with writing. The mindset shift I have tried to apply is simply this:"
+            - strong [ref=e74]:
+              - strong [ref=e75]: declare a piece of writing done when it feels about 80% done
+            - text: .
+          - paragraph [ref=e76]: Publish it, and move on to the next one. Instead of agonizing over every article, chipping away at it in a never-ending quest for perfection, declare it done and share it with the world for feedback. I call this approach the "creative sprint", and it looks something like this.
+          - figure:
+            - img "creative sprint.png"
+          - paragraph [ref=e77]: The creative sprint is like an intense bodyweight workout, which incidentally is now the majority of my workout routine. It does not have the aggressive, Metallica-blasting-on-the-speakers machismo of the barbell squat. But it does allow me to work out more frequently, make continuous progress, and avoid injuring myself. Similarly, the creative sprint allows me to develop the craft of writing in small but meaningful steps while publishing my work and receiving feedback.
+          - paragraph [ref=e78]: "Here are some of the benefits of the creative sprint I've experienced:"
+          - paragraph [ref=e79]:
+            - strong [ref=e80]:
+              - strong [ref=e81]: You're less reliant on willpower.
+            - text: It takes willpower to overcome the
+            - link "activation energy" [ref=e82] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://jamesclear.com/chemistry-habits
+            - text: needed to start a creative task. The creative sprint approach lowers the activation energy required, making the task feel easier in your mind and making it more likely that you show up and do it. In the early stages of mastery, continually showing up and doing the work makes all the difference.
+          - paragraph [ref=e83]:
+            - strong [ref=e84]:
+              - strong [ref=e85]: You produce more, faster.
+            - text: Because you're less reliant on willpower and continually showing up, you produce more, faster. This puts you into a virtuous cycle of producing and learning that results in compounding growth in the quality and speed of your output. You get all the
+            - link "benefits of speed" [ref=e86] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/http://jsomers.net/blog/speed-matters
+            - text: . You feel a wind in your back, pushing you on, and it becomes easier to keep going than to stop.
+          - paragraph [ref=e87]:
+            - strong [ref=e88]:
+              - strong [ref=e89]: You learn faster and more broadly.
+            - text: With each creative project, you improve your skills and also learn some new aspect or style of your craft. This learning curve is steep initially and flattens out the longer you work on the same project. With the creative sprint approach, you spend most of your time on the steep part of the learning curve. This means you learn faster and more broadly.
+          - paragraph [ref=e90]:
+            - strong [ref=e91]:
+              - strong [ref=e92]: You avoid setting an impossibly high quality bar.
+            - text: Working in sprints forces you to produce work that is "imperfect" by your standards. This lowers the internal quality bar you set for yourself when you start a new project. When looking at a blank slate, you're excited, not intimidated by the task ahead.
+          - paragraph [ref=e93]:
+            - strong [ref=e94]:
+              - strong [ref=e95]: You get more feedback and grow your audience.
+            - text: You produce more output and your work is out there in front of people's eyes, which means you get more feedback, grow your audience faster, and refine your work for your audience.
+          - paragraph [ref=e96]:
+            - strong [ref=e97]:
+              - strong [ref=e98]: You learn to finish, not just start.
+            - text: Finishing a creative project is harder than starting a new one. This is why many writers will tell you they have hundreds of in-progress articles at any time. Using the creative sprint allows you to finish more often.
+          - paragraph [ref=e99]:
+            - strong [ref=e100]:
+              - strong [ref=e101]: You create re-usable packets of work.
+            - text: By creating many "80% done" projects, you end up with your own, personal "lego set" of building blocks that you can then assemble, arrange, and configure to produce new things. As
+            - link "Tiago Forte says" [ref=e102] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://medium.com/praxis-blog/bending-the-curves-of-productivity-25edb268672f
+            - text: ", we need to change our conception of what we are producing, from final deliverables to intermediate packets."
+          - paragraph [ref=e103]:
+            - strong [ref=e104]:
+              - strong [ref=e105]: It feels better.
+            - text: Beyond all the tangible benefits, working in creative sprints just
+            - emphasis [ref=e106]: feels better
+            - text: . You feel more like a child in a playground than an adult in a cubicle. You come out of a creative sprint feeling like a yogi after a yoga session - refreshed, energized, and ready to take on whatever's next.
+          - paragraph [ref=e107]: By following the creative sprint approach, you are building your personal Colosseum, brick-by-brick. In each creative sprint, you fire one brick in the kiln and lay it in its place. No single brick is particularly remarkable, but together, larger than the sum of their parts, they create a structure that is still a sight to behold, almost two millennia later.
+          - paragraph [ref=e108]: I planned to write some practical tips on how to apply the creative sprint approach, but in the spirit of finishing at 80%, I'm going to leave that to another article, not least because I'm still figuring that out for myself.
+          - paragraph [ref=e109]:
+            - text: Naval Ravikant has often spoken about the importance of
+            - link "playing long-term games" [ref=e110] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://nav.al/long-term
+            - text: . Creation and creative mastery are both long-term games. It's easy to forget that when we're so focused on making our current work perfect. The creative sprint is an
+            - emphasis [ref=e111]: imperfect cure for the perfection itch
+            - text: . Happy sprinting.
+        - generic [ref=e114]:
+          - generic [ref=e115]:
+            - heading "Join the mailing list" [level=3] [ref=e116]
+            - paragraph [ref=e117]: Subscribe to receive my latest writing in your inbox. No spam, ever.
+            - generic [ref=e119]:
+              - generic [ref=e120]: Your email address
+              - textbox "Your email address" [ref=e121]
+              - button "Subscribe" [ref=e122] [cursor=pointer]
+          - img [ref=e124]
+      - separator
+      - heading "Related Posts" [level=3] [ref=e130]
+      - generic [ref=e133]:
+        - generic [ref=e134]:
+          - time [ref=e136]: 27 Jul 2021
+          - generic [ref=e137]:
+            - heading "Why I took a sabbatical and why you should consider one" [level=2] [ref=e138]:
+              - link "Why I took a sabbatical and why you should consider one" [ref=e139] [cursor=pointer]:
+                - /url: /web/20240811173321/https://amandhesi.net/writing/why-i-took-a-sabbatical-and-why-you-should-consider-one/
+            - paragraph [ref=e140]: In March, after 3.5 years working at Square and DoorDash - two incredible companies that I remain excited about - I left to take a creative sabbatical. I’ve spent the last few months surfing in Malibu and Mexico, reading, writing, meditating, taking cohort-based courses, diving into the world
+        - generic [ref=e141]:
+          - time [ref=e143]: 19 Oct 2020
+          - generic [ref=e144]:
+            - heading "My Guiding Principles" [level=2] [ref=e145]:
+              - link "My Guiding Principles" [ref=e146] [cursor=pointer]:
+                - /url: /web/20240811173321/https://amandhesi.net/writing/my-guiding-principles/
+            - paragraph [ref=e147]: Watch your character, it becomes your destiny. - Lao Tzu
+          - img "My Guiding Principles" [ref=e150]
+        - generic [ref=e151]:
+          - time [ref=e153]: 13 Jul 2020
+          - generic [ref=e154]:
+            - heading "To get what you want, focus on what you control" [level=2] [ref=e155]:
+              - link "To get what you want, focus on what you control" [ref=e156] [cursor=pointer]:
+                - /url: /web/20240811173321/https://amandhesi.net/writing/focus-on-what-you-control/
+            - paragraph [ref=e157]: Identify the things you control and focus exclusively on them. Everything else is chance.
+          - img "To get what you want, focus on what you control" [ref=e160]
+    - contentinfo [ref=e161]:
+      - generic [ref=e162]:
+        - list [ref=e164]:
+          - listitem [ref=e165]:
+            - link "Start Here" [ref=e166] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/
+          - listitem [ref=e167]:
+            - link "About" [ref=e168] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/about/
+          - listitem [ref=e169]:
+            - link "Essays" [ref=e170] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/essays/
+          - listitem [ref=e171]:
+            - link "Short Notes" [ref=e172] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/shorts/
+          - listitem [ref=e173]:
+            - link "Books" [ref=e174] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20240811173321/https://amandhesi.net/books/
+        - generic [ref=e176]: © 2024 Aman Dhesi
